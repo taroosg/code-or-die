@@ -26,8 +26,8 @@ _class:
 - Twitter: @tarosg
 - 仕事: エンジニア，プログラミング講師
 - 技術: Laravel，JS，Deno，（Rust）
-- 好きなもの: 💻，📚，🥃，✈ 🚌 🚃，🚮
-- コメント
+- 好きなもの: 💻 📚 🥃 ✈ 🚌 🚃 🚮
+- 入学おめでとうございますッ！！！
 
 ![bg right:35% width:180px alt text](./img/qr_twitter.png)
 
