@@ -23,7 +23,7 @@ _class:
 ## 自己紹介
 
 - 氏名: 大杉太郎
-- Twitter: @tarosg
+- Twitter: @taroosg
 - 仕事: エンジニア，プログラミング講師
 - 技術: Laravel，JS，Deno，（Rust）
 - 好きなもの: 💻 📚 🥃 ✈ 🚌 🚃 🚮
